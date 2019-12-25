@@ -1,0 +1,12 @@
+DEBUG   2019-12-25 17:35:53,967 [main] com.etechon.helper.WriteLoggerProperties  - this is a debug log message
+INFO    2019-12-25 17:35:53,969 [main] com.etechon.helper.WriteLoggerProperties  - this is a information log message
+WARN    2019-12-25 17:35:53,970 [main] com.etechon.helper.WriteLoggerProperties  - this is a warning log message
+DEBUG   2019-12-25 18:06:14,341 [main] com.etechon.util.ReadXMLfile  - F:\Techm_Code\Excel dependency\employee.xlsx
+DEBUG   2019-12-25 18:18:24,575 [main] com.etechon.util.ReadXMLfile  - F:\Techm_Code\Excel dependency\employee.xlsx
+DEBUG   2019-12-25 18:19:10,604 [main] com.etechon.util.ReadXMLfile  - filePath :F:\Techm_Code\Excel dependency\employee.xlsx
+INFO    2019-12-25 18:19:34,888 [main] com.etechon.util.ReadXMLfile  - filePath :F:\Techm_Code\Excel dependency\employee.xlsx
+INFO    2019-12-25 18:24:48,254 [main] com.etechon.util.ReadXMLfile  - filePath :F:\Techm_Code\Excel dependency\employee.xlsx
+INFO    2019-12-25 18:27:40,562 [main] com.etechon.util.ReadXMLfile  - filePath :F:\Techm_Code\Excel dependency\employee.xlsx
+INFO    2019-12-25 18:28:45,536 [main] com.etechon.util.ReadXMLfile  - filePath :F:\Techm_Code\Excel dependency\employee.xlsx
+INFO    2019-12-25 18:30:33,458 [main] com.etechon.util.ReadXMLfile  - filePath :F:\Techm_Code\Excel dependency\employee.xlsx
+INFO    2019-12-25 18:31:32,561 [main] com.etechon.util.ReadXMLfile  - filePath :F:\Techm_Code\Excel dependency\employee.xlsx
